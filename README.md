@@ -6,3 +6,5 @@ Was use only native javascript language
 
 ##### You can see work on link:
 [Yoga Web Site](https://voronovroman.github.io/yoga-project-js)
+
+![alt text](https://voronovroman.github.io/yoga-project-js/img/slider_3.jpg "Yoga Web Site")
